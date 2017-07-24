@@ -9,5 +9,5 @@
     + NN with input being genotypes and outpur layer being phenotypes
     + Autoencoder with input and output layers being the same: combination of genotypes and phenotypes
     + Find low-dimensional embedding that captures correlations between genotypes and phenotypes, within genotypes and within phenotypes
-    + Visualize low-diemensional embedding
+    + Visualize low-diemensional embedding by t-SNE
     + Will use Keras
